@@ -1,0 +1,5 @@
+jdbc.driverClassName=com.mysql.jdbc.Driver
+jdbc.dialect=org.hibernate.dialect.MySQLDialect
+jdbc.databaseurl=jdbc:mysql://mysql37.hostland.ru:3306/host1378713
+jdbc.username=host1378713_root
+jdbc.password=265f61ab
